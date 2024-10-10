@@ -26,3 +26,5 @@ This is an explanation on how to configurate the environment to execute the web 
 ## Executing the Web Application
 
 These are detailed steps on how to execute the web application from the command line.
+
+More coming soon :)
