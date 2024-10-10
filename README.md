@@ -17,8 +17,12 @@ Montserrad Fallas Ruiz
 
 ## Architecture
 
-This is a brief description of my project' architecture.
+This is a brief description of my project's architecture.
 
 ## Environment
 
 This is an explanation on how to configurate the environment to execute the web application, unit tests, and end-to-end tests.
+
+## Executing the Web Application
+
+These are detailed steps on how to execute the web application from the command line.
